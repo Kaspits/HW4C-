@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\obj\Debug\net6.0\HOMEWORK4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\obj\Debug\net6.0\HOMEWORK4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\obj\Debug\net6.0\HOMEWORK4.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\obj\Debug\net6.0\HOMEWORK4.AssemblyInfo.cs
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\obj\Debug\net6.0\HOMEWORK4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\bin\Debug\net6.0\HOMEWORK4.exe
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\bin\Debug\net6.0\HOMEWORK4.deps.json
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\bin\Debug\net6.0\HOMEWORK4.runtimeconfig.json
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\bin\Debug\net6.0\HOMEWORK4.dll
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\bin\Debug\net6.0\HOMEWORK4.pdb
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\obj\Debug\net6.0\HOMEWORK4.dll
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\obj\Debug\net6.0\refint\HOMEWORK4.dll
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\obj\Debug\net6.0\HOMEWORK4.pdb
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\obj\Debug\net6.0\HOMEWORK4.genruntimeconfig.cache
+C:\Users\PC\Desktop\HW4\HW4C-\HOMEWORK4\obj\Debug\net6.0\ref\HOMEWORK4.dll
